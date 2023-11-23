@@ -1,0 +1,132 @@
+[33mcommit 4f43920b4363a6c066906c48efd07a4317c394b6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Thu Nov 23 13:18:22 2023 +0300
+
+    edit txt in main
+
+[33mcommit 6c203eddfa3ebec0c81f6d29ab27b86ed5488f78[m[33m ([m[1;31morigin/Laba[m[33m, [m[1;32mLaba[m[33m)[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Thu Nov 23 13:12:06 2023 +0300
+
+    edit txt
+
+[33mcommit f7c1b12ef38a6e69d120ffebbeecaa146b60bcbd[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Thu Nov 23 13:04:26 2023 +0300
+
+    add txt file
+
+[33mcommit 711004b75c1823beb4139542c55634bb1e2cb596[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Thu Nov 23 12:48:44 2023 +0300
+
+    zanovolb4
+
+[33mcommit 0f50e87e19899a15e2aa9f46d77f1500cf1d40df[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Wed Nov 22 02:12:33 2023 +0300
+
+    change txt file
+
+[33mcommit 1e71372441c4112dbe4e95f41c8abfad8240b8f0[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Wed Nov 22 02:00:42 2023 +0300
+
+    add text file
+
+[33mcommit 3040398c80787bf51e376bf44e9aa768c4f4f860[m
+Merge: b17ff0d b825502
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 16:59:24 2023 +0300
+
+    Разрешение конфликта и слияние веток
+
+[33mcommit b17ff0da2af47aa12c63a75a53582caa2660507f[m
+Merge: b012ccd 469ee48
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 16:50:32 2023 +0300
+
+    крутой коммит
+
+[33mcommit b012ccd2299fb1d3fff54a9f992f32401aec0275[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 16:34:34 2023 +0300
+
+    Изменил файл текстовый
+
+[33mcommit b825502d45adb564eedf6cbaddbbce29a8d440ae[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 16:32:57 2023 +0300
+
+    Изменил файл
+
+[33mcommit 469ee48f5f81b41595879c344cdc81141b27afbe[m
+Merge: c3c2821 3859cd4
+Author: Fazom <62665724+Fazom@users.noreply.github.com>
+Date:   Fri Nov 10 15:22:56 2023 +0300
+
+    Merge pull request #1 from Fazom/develop
+    
+    Изменил файл
+
+[33mcommit 3859cd45248bcee06a07b1c8767aa1b8a507b6c7[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 15:22:06 2023 +0300
+
+    Изменил файл
+
+[33mcommit c3c282120366748ff0584c634900181a85c42948[m
+Merge: 1cb78c3 3210e10
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 15:20:48 2023 +0300
+
+    Слил ветки
+
+[33mcommit 3210e1080532795f47eda0f9cafba9a2adb52e79[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 15:10:56 2023 +0300
+
+    Поменял файл
+
+[33mcommit 1cb78c3457eccb5288c53befc74518d522a4c80b[m
+Merge: 2663544 16b7a15
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 15:08:46 2023 +0300
+
+    Слияние веток
+
+[33mcommit 16b7a151113ca394e229f747c9c32c02390b6904[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 14:54:42 2023 +0300
+
+    изменил имя файла на dd
+
+[33mcommit ec62dfe78168eac389b2b8261ee330729c322efe[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 14:39:18 2023 +0300
+
+    Изменил файл hiall
+
+[33mcommit 26635444131b255a3cc8391b77ba61800f365d9d[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 14:17:52 2023 +0300
+
+    добавил текстовый файл
+
+[33mcommit 1f6f64e43d2b518bed76802dc2e36f204cbb42a9[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Fri Nov 10 14:01:55 2023 +0300
+
+    Рисунок
+
+[33mcommit 91ad7036925f32f5a4d92284a111be9f1662a0fa[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Thu Nov 9 17:06:16 2023 +0300
+
+    Add text file
+
+[33mcommit 3a1773f7ad3d5211ae0f483ef74c4db1d8ea36c2[m
+Author: Fazom <kbelyavskiy2015@mail.ru>
+Date:   Thu Nov 9 16:58:35 2023 +0300
+
+    first commit
