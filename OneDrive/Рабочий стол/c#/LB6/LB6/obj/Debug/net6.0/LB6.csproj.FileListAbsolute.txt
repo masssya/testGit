@@ -1,0 +1,14 @@
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.AssemblyInfoInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.AssemblyInfo.cs
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.csproj.CoreCompileInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\bin\Debug\net6.0\LB6.exe
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\bin\Debug\net6.0\LB6.deps.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\bin\Debug\net6.0\LB6.runtimeconfig.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\bin\Debug\net6.0\LB6.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\bin\Debug\net6.0\LB6.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\refint\LB6.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\LB6.genruntimeconfig.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB6\LB6\obj\Debug\net6.0\ref\LB6.dll
