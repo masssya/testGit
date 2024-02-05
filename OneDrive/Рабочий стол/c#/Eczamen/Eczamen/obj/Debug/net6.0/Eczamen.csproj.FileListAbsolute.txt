@@ -1,0 +1,14 @@
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\bin\Debug\net6.0\Eczamen.exe
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\bin\Debug\net6.0\Eczamen.deps.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\bin\Debug\net6.0\Eczamen.runtimeconfig.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\bin\Debug\net6.0\Eczamen.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\bin\Debug\net6.0\Eczamen.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.AssemblyInfoInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.AssemblyInfo.cs
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.csproj.CoreCompileInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\refint\Eczamen.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\Eczamen.genruntimeconfig.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Eczamen\Eczamen\obj\Debug\net6.0\ref\Eczamen.dll

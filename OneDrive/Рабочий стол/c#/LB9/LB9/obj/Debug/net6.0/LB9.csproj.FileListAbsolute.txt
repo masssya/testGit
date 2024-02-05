@@ -1,0 +1,14 @@
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\bin\Debug\net6.0\LB9.exe
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\bin\Debug\net6.0\LB9.deps.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\bin\Debug\net6.0\LB9.runtimeconfig.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\bin\Debug\net6.0\LB9.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\bin\Debug\net6.0\LB9.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.AssemblyInfoInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.AssemblyInfo.cs
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.csproj.CoreCompileInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\refint\LB9.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\LB9.genruntimeconfig.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\LB9\LB9\obj\Debug\net6.0\ref\LB9.dll

@@ -1,0 +1,14 @@
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\bin\Debug\net6.0\Kursach.exe
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\bin\Debug\net6.0\Kursach.deps.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\bin\Debug\net6.0\Kursach.runtimeconfig.json
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\bin\Debug\net6.0\Kursach.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\bin\Debug\net6.0\Kursach.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.AssemblyInfoInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.AssemblyInfo.cs
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\refint\Kursach.dll
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.pdb
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\Kursach.genruntimeconfig.cache
+C:\Users\dnspo\OneDrive\Рабочий стол\c#\Kursach\Kursach\obj\Debug\net6.0\ref\Kursach.dll
